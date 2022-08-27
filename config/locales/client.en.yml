@@ -2,13 +2,13 @@ en:
   js:
     user:
       feedback:
-        title: "Feedback"
+        title: "Review"
     discourse_user_feedbacks:
       user_feedbacks:
-        add_user_feedback: "Add Feedback"
-        user_ratings_count: "%{count} ratings"
-        add_rating: "Add your rating: "
+        add_user_feedback: "Add Review"
+        user_ratings_count: "%{count} reviews"
+        add_rating: "Add your review: "
         user_review:
           placeholder: "Include your review to the user (optional)"
-        empty_state_title: "There are no feedbacks yet"
-        empty_state_body: "Feedbacks will be displayed once you get feedback from your fellow community members"
+        empty_state_title: "There are no review yet"
+        empty_state_body: "Feedbacks will be displayed once you get review from your fellow community members"
